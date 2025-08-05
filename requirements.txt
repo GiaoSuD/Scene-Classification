@@ -1,0 +1,13 @@
+# Backend - Flask API
+flask
+flask-cors
+
+# Deep learning - Model and inference
+torch
+torchvision
+
+# Image processing
+pillow
+
+# Optional - for compatibility
+numpy
