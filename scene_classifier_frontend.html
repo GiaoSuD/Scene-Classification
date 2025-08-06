@@ -587,7 +587,7 @@
 
               const reader = new FileReader();
               reader.onload = (e) => {
-                fetch("http://127.0.0.1:5000/predict", {
+                fetch("https://scene-api-293561415521.asia-southeast1.run.app/predict", {
                   method: "POST",
                   body: formData
             })
