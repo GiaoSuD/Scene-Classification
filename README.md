@@ -121,7 +121,7 @@ Example JSON response:
 
 - This project assumes `best_model.pth` (trained weights) is available.
 - You can retrain the model using `Scene_classifier_train.ipynb`.
-
+- I may have changed this url of this project to deploy, pls check it correct or else it won't work
 ---
 
 ## 📄 License
